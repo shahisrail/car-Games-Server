@@ -1,0 +1,102 @@
+[
+    {
+      "Picture": "https://i.ibb.co/f1FCgjF/tracktor-track.jpg",
+      "toyName": "Tractor Track",
+      "sellerName": "John Doe",
+      "sellerEmail": "johndoe@gmail.com",
+      "subcategory": "Truck",
+      "price": 19.99,
+      "rating": 4.5,
+      "quantity": 850,
+      "description": "The toy truck is a powerhouse on wheels, ready to conquer any terrain. With its rugged tires, robust construction, and realistic detailing, it's perfect for little adventurers. Kids can engage in imaginative play, transporting goods, and exploring their own miniature world. This toy truck encourages creativity, fine motor skills, and endless hours of fun."
+    },
+    {
+      "Picture": "https://i.ibb.co/C6cGRyN/constractor-track.jpg",
+      "toyName": "Constructor Track",
+      "sellerName": "Alice Smith",
+      "sellerEmail": "alicesmith@gmail.com",
+      "subcategory": "Truck",
+      "price": 29.99,
+      "rating": 4.2,
+      "quantity": 500,
+      "description": "Introducing the ultimate toy truck for budding engineers and construction enthusiasts! This detailed and interactive toy truck features a working crane, realistic sounds, and movable parts. Children can pretend to be construction workers, lifting and moving objects with ease. It's a hands-on educational toy that promotes problem-solving skills and encourages imaginative play."
+    },
+    {
+      "Picture": "https://i.ibb.co/RyF2yjS/dumb-truck.jpg",
+      "toyName": "Dumb Truck",
+      "sellerName": "David Johnson",
+      "sellerEmail": "davidjohnson@gmail.com",
+      "subcategory": "Truck",
+      "price": 24.99,
+      "rating": 4.7,
+      "quantity": 798,
+      "description": "Get ready for high-speed adventures with the supercharged toy truck! Designed for racing enthusiasts, this sleek and aerodynamic truck features a friction-powered engine, allowing it to zoom across any surface. With its vibrant colors and bold design, it's sure to capture the attention of young race car fans. Let your child's imagination take the wheel as they race against friends and create thrilling race scenarios. This toy truck guarantees excitement and adrenaline-fueled playtime."
+    },
+    {
+      "Picture": "https://i.ibb.co/tQhg9j1/battat-police-car.jpg",
+      "toyName": "Battat Police Car",
+      "sellerName": "John Doe",
+      "sellerEmail": "johndoe@gmail.com",
+      "subcategory": "Police Car",
+      "price": 11.99,
+      "rating": 4.6,
+      "quantity": 1100,
+      "description": "Buckle up for thrilling police missions with the supercharged toy police car! Designed for high-speed pursuits, this sleek and powerful vehicle features a friction-powered motor, allowing it to race to the scene in no time. Equipped with flashing lights, realistic sounds, and a removable police officer figure, kids can create their own action-packed police adventures. This toy police car inspires imaginative play, promotes storytelling skills, and lets children feel like real heroes of the law."
+    },
+    {
+      "Picture": "https://i.ibb.co/YbShsTT/lego-city-police-car.jpg",
+      "toyName": "Lego City Police Car",
+      "sellerName": "Alice Smith",
+      "sellerEmail": "alicesmith@gmail.com",
+      "subcategory": "Police Car",
+      "price": 23.99,
+      "rating": 4.9,
+      "quantity": 945,
+      "description": "Introducing the ultimate toy police car for aspiring young officers! This action-packed vehicle features working doors, a removable roof, and an array of exciting police accessories. Kids can play the role of a police officer, solving crimes, and protecting the community. With its attention to detail and realistic features, this toy police car enhances role-playing abilities, encourages problem-solving skills, and ignites the imagination."
+    },
+    {
+      "Picture": "https://i.ibb.co/h70Lzny/sunny-days-police-car.jpg",
+      "toyName": "Sunny Days Police Car",
+      "sellerName": "David Johnson",
+      "sellerEmail": "davidjohnson@gmail.com",
+      "subcategory": "Police Car",
+      "price": 33.99,
+      "rating": 4.7,
+      "quantity": 399,
+      "description": "The toy police car is a fearless law enforcement vehicle ready to patrol the streets and keep the city safe. With its flashing lights, realistic siren sounds, and sleek design, it captures the essence of a real police car. Children can embark on thrilling police adventures, chasing down imaginary criminals and maintaining peace. This toy police car promotes imaginative play, fosters a sense of justice, and provides endless hours of exciting law enforcement action."
+    },
+    {
+      "Picture": "https://i.ibb.co/kJTht9k/Shelby-car.jpg",
+      "toyName": "shelby Car",
+      "sellerName": "John Doe",
+      "sellerEmail": "johndoe@gmail.com",
+      "subcategory": "Stylish Car",
+      "price": 99.99,
+      "rating": 5,
+      "quantity": 438,
+      "description": "The Shelby toy car is a miniature powerhouse that embodies the spirit of classic American muscle cars. With its iconic Shelby design, sleek curves, and attention to detail, it captures the essence of automotive excellence. This collectible toy car showcases a striking color scheme and realistic features, from the distinct grille to the roaring engine. Whether displayed on a shelf or used in imaginative play, this Shelby toy car is sure to captivate car enthusiasts of all ages. It's a must-have for collectors and a source of endless joy for kids who dream of hitting the road in style."
+    },
+    {
+      "Picture": "https://i.ibb.co/qNfGvxR/le-Ferarry.jpg",
+      "toyName": "LeFerrary",
+      "sellerName": "Alice Smith",
+      "sellerEmail": "alicesmith@gmail.com",
+      "subcategory": "Stylish Car",
+      "price": 80.99,
+      "rating": 4.8,
+      "quantity": 682,
+      "description": "The Ferrari toy car is a symbol of luxury and speed, capturing the essence of the legendary Italian sports car brand. With its sleek and aerodynamic design, vibrant colors, and intricate detailing, it mirrors the elegance and performance of its real-life counterpart. This miniature Ferrari showcases the iconic Ferrari logo, distinct body lines, and realistic features, from the sleek headlights to the sculpted rear. Whether used for display or imaginative play, this Ferrari toy car exudes sophistication and excitement. It's a prized possession for collectors and a source of thrilling adventures for young car enthusiasts who dream of racing in style."
+    },
+    {
+      "Picture": "https://i.ibb.co/ZHKnjWQ/lambroghini.jpg",
+      "toyName": "LamborGhini",
+      "sellerName": "David Johnson",
+      "sellerEmail": "davidjohnson@gmail.com",
+      "subcategory": "Stylish Car",
+      "price": 70.99,
+      "rating": 4.9,
+      "quantity": 780,
+      "description": "The Lamborghini toy car is the epitome of luxury and exotic sports cars, capturing the attention of car enthusiasts worldwide. With its striking and angular design, sleek body curves, and attention to detail, it embodies the spirit of Italian automotive excellence. This miniature Lamborghini showcases the iconic Lamborghini emblem, iconic scissor doors, and realistic features, from the aggressive front grille to the distinctive taillights. Whether used as a display piece or for imaginative play, this Lamborghini toy car exudes style and performance. It's a coveted item for collectors and a source of endless excitement for young dreamers who envision themselves behind the wheel of a supercar."
+    }
+  ]
+  
